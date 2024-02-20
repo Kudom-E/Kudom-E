@@ -49,7 +49,3 @@ Hey, Emmanuel😃. 💻 A passionate software engineer on a mission to craft ele
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kudom-E&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
