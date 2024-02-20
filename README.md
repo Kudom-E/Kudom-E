@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 It's Me:
 Hello, I'm Emmanuel😃. 💻 A passionate software engineer on a mission to craft elegant solutions to complex problems. I thrive on the dynamic nature of the tech industry and pride myself in my adapting prowess. With a foundation in computer engineering, I'm constantly honing my skills and embracing new challenges.🚀
 
 ## ⚡ Techn Stack:
@@ -32,7 +32,7 @@ Hello, I'm Emmanuel😃. 💻 A passionate software engineer on a mission to cra
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-## Hello World!! 🤔
+## Hello World!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 - 🔭 Currently spearheading a cutting-edge project revolutionizing event management. I am leveraging my room scheduler project to automate an event's room assignments and optimize logistics such as conflicts and room changes
 - 👯 Looking to collaborate on exploring other frontiers in software development and contributing to impactful applications.
 - 🌱 Embracing automation and infrastructure as code (IaC) principles to streamline deployment processes.
