@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 Currently spearheading a cutting-edge project revolutionizing event management. I am leveraging my room scheduler project to automate an event's room assignments and optimize logistics such as conflicts and room changes.<br>👯 Looking to collaborate on exploring other frontiers in software development and contributing to impactful applications.<br>🌱 Embracing automation and infrastructure as code (IaC) principles to streamline deployment processes.<br>💬 Ask me about the pivotal decisions that shaped my career trajectory.<br>⚡ Whether solving complex algorithms or unraveling a challenging Sudoku, I delight in piecing solutions and uncovering hidden patterns.<br>
+🔭 Currently spearheading a cutting-edge project revolutionizing event management. I am leveraging my room scheduler project to automate an event's room assignments and optimize logistics such as conflicts and room changes.<br>👯 Looking to collaborate on exploring other frontiers in software development and contributing to impactful applications.<br>🌱 Embracing automation and infrastructure as code (IaC) principles to streamline deployment processes.<br>💬 Ask me about the pivotal decisions that shaped my career trajectory.<br>⚡ Whether solving complex algorithms or unraveling a challenging Sudoku, I delight in piecing solutions and uncovering hidden patterns.<be>
+
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Backend development using **Flask, Django**.
+- Making for **Relational Database Management Systems**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter** (Still learning).
+- Mobile application development using **Flutter and Kotlin**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **Java and Python**.
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
+- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+- ⚡ Fun fact: Internet users blink less than usual.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-kudom-agyemang-b93a4117a/) 
