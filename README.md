@@ -40,13 +40,9 @@ Hey, Emmanuel😃. 💻 A passionate software engineer on a mission to craft ele
 - ⚡ Whether solving complex algorithms or unraveling a challenging Sudoku, I delight in piecing solutions and uncovering hidden patterns.
 - 🎯 Portfolio site: [Portfolio](https://kudom-e.github.io/).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-kudom-agyemang-b93a4117a/) 
-
-# 💻 Tech Stack:
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kudom-E&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kudom-E&theme=default&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kudom-E&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudom-E&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
