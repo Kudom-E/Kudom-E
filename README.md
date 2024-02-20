@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Emmanuel😃. 💻 A passionate software engineer on a mission to craft elegant solutions to complex problems. I thrive on the dynamic nature of the tech industry. With a foundation in computer engineering, I'm constantly honing my skills and embracing new challenges.🚀
+Hello, I'm Emmanuel😃. 💻 A passionate software engineer on a mission to craft elegant solutions to complex problems. I thrive on the dynamic nature of the tech industry and pride myself in my adapting prowess. With a foundation in computer engineering, I'm constantly honing my skills and embracing new challenges.🚀
 
 ## ⚡ Techn Stack:
 
