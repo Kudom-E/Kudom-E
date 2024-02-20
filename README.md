@@ -37,7 +37,7 @@ Hello, I'm Emmanuel😃. 💻 A passionate software engineer on a mission to cra
 - 👯 Looking to collaborate on exploring other frontiers in software development and contributing to impactful applications.
 - 🌱 Embracing automation and infrastructure as code (IaC) principles to streamline deployment processes.
 - 💬 Ask me about the pivotal decisions that shaped my career trajectory.
-- ⚡ Whether solving complex algorithms or unraveling a challenging Sudoku, I delight in piecing solutions and uncovering hidden patterns.
+- ⚡ Whether solving complex algorithms or unraveling a challenging Sudoku, I delight in piecing solutions and uncovering patterns.
 - 🎯 Portfolio site: [Portfolio](https://kudom-e.github.io/).
 
 
